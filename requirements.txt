@@ -1,0 +1,17 @@
+# GNR-Val v5.2 — Requirements
+# Varroc Eureka 3.0 | Problem Statement 9
+# Install with: pip install -r requirements.txt
+
+torch
+torch-geometric
+networkx
+scikit-learn
+ipywidgets
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+pyngrok
+jupyter
+notebook
