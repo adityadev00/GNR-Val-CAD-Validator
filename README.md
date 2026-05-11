@@ -182,14 +182,13 @@ GNR-Val treats CAD assemblies as **graphs**, applies GNN-based learning for patt
 ---
 
 
-
 <div align="center">
   <h3>👨‍💻 Developed by Aditya Dev</h3>
   <p>
-    <a href="mailto:adityadev8009917281@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adityadev8009917281@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
     </a>
-    <a href="https://github.com/adityadev00">
+    <a href="https://github.com/adityadev00" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
   </p>
