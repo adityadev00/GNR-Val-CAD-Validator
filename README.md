@@ -1,7 +1,5 @@
 # 🏭 GNR-VAL v5.2 — Industrial CAD Compliance Validator
 
-**Varroc Eureka 3.0 · Problem Statement 9**
-
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge)](https://gnr-val-cad-validator-demo.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-GNN-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
@@ -183,6 +181,16 @@ GNR-Val treats CAD assemblies as **graphs**, applies GNN-based learning for patt
 
 ---
 
-**GNR-Val v5.2 · TransformerConv GNN + ISO 2768 / ASME Y14.5 Rule Engine · Varroc Eureka 3.0**
 
-Made with love by [adityadev00](https://github.com/adityadev00)
+
+<div align="center">
+  <h3>👨‍💻 Developed by Aditya Dev</h3>
+  <p>
+    <a href="mailto:adityadev8009917281@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+    </a>
+    <a href="https://github.com/adityadev00">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+  </p>
+</div>
